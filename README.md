@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapneel Kulkarni
 - 👀 I’m interested in ML, web dev, DL, DSA
 - 🌱 I’m currently learning DSA  
-- 👨‍💻 All of my current projects are available at 
+- 👨‍💻 All of my current projects are available at https://github.com/legit-swap?tab=repositories
 - 📫 How to reach me swapneelskulkarni2309@gmail.com
 - ⚡ Fun fact: The biggest fish is always the one that gets away
 
